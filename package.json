@@ -1,6 +1,6 @@
 {
   "name": "convert-to-plain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "html convert to plain text, clear html tags and get clear plain text, basic converter",
   "main": "index.js",
   "scripts": {
