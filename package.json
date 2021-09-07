@@ -1,0 +1,26 @@
+{
+  "name": "convert-to-plain",
+  "version": "1.0.0",
+  "description": "html conver to plain text, clear html tags and get clear plain text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykutkircan/convertToPlain.git"
+  },
+  "keywords": [
+    "clear",
+    "convert html",
+    "convert to plain",
+    "clear html tag",
+    "convert"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aykutkircan/convertToPlain/issues"
+  },
+  "homepage": "https://github.com/aykutkircan/convertToPlain#readme"
+}
